@@ -10,7 +10,7 @@ function random(range) {
 
 function shuffleDice(diceImg) {
   var newNumber = random(6);
-  diceImg.setAttribute("src", "D:\\Desktop\\Web\\Dicee Challenge - Starting Files\\images\\dice"+ newNumber + ".png")
+  diceImg.setAttribute("src", "images\\dice"+ newNumber + ".png")
 
   return newNumber;
 }
