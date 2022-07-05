@@ -1,0 +1,61 @@
+html, body {
+  width: 100vw;
+  text-align: center;
+  background-color: #393E46;
+  overflow-x: hidden;
+
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+h1 {
+  text-align: center;
+  margin: auto auto;
+  font-size: 7rem;
+  margin-bottom: 50px;
+  font-family: 'Lobster', cursive;
+  color: #4ECCA3;
+}
+
+p {
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+  font-size: 2rem;
+}
+
+.primary-section {
+  width: 70%;
+  margin: auto auto;
+}
+
+.Die {
+  text-align: center;
+  margin: auto auto;
+}
+
+.Dice {
+  display: inline-block;
+  width: 20%;
+  margin: auto 20px;
+}
+
+.dice-img {
+  width: 100%;
+}
+
+.player {
+  display: block;
+  margin-bottom: 30px;
+}
+
+/* Copyright section */
+
+.copyright-section {
+  margin-top:100px;
+}
+
+.copyright-text {
+  margin: 0;
+  font-size: 1.25rem;
+  color: white;
+}
